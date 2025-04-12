@@ -11,9 +11,11 @@ The analysis uses IPL datasets containing:
 - Player statistics (optional/additional files if any)
 - Season and team metadata
 
-The projects uses these python libraries:
+## Libraries Used
+The project uses these Python libraries:
 
--Numpy
--Pandas
--Matplotlib
--Seaborn
+- **Numpy**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+
