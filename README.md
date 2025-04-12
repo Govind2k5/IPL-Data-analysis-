@@ -8,8 +8,6 @@ The analysis uses IPL datasets containing:
 
 - Match details (`matches.csv`)
 - Ball-by-ball delivery data (`deliveries.csv`)
-- Player statistics (optional/additional files if any)
-- Season and team metadata
 
 ## Libraries Used
 The project uses these Python libraries:
